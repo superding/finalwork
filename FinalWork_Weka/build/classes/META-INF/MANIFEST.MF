@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Built-By: super.d
-Build-Jdk: 1.7.0_02
-Main-Class: weka.gui.GUIChooser
-Created-By: Maven Integration for Eclipse
-
